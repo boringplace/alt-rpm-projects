@@ -5,7 +5,7 @@ Release: alt1
 Summary: Empty project summary
 Summary(ru_RU.UTF-8): Заголовок пустого проекта
 
-License: GPL
+License: GPLv3+
 Group: Education
 Url: https://github.com/boringplace/alt-rpm-projects
 
