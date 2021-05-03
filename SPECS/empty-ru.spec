@@ -7,7 +7,7 @@ Summary(ru_RU.UTF-8): Заголовок пустого проекта
 
 License: GPL
 Group: Education
-Url: https://github.com/boringplace/rpm-projects
+Url: https://github.com/boringplace/alt-rpm-projects
 
 %description
 Empty project description

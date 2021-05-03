@@ -7,7 +7,7 @@ Summary(ru_RU.UTF-8): Заголовок минимального проекта
 
 License: GPL
 Group: Education
-Url: https://github.com/boringplace/rpm-projects
+Url: https://github.com/boringplace/alt-rpm-projects
 
 %description
 Minimal project description

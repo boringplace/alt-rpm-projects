@@ -6,7 +6,7 @@ Summary: Hello/Python project summary
 
 License: GPL
 Group: Education
-Url: https://github.com/boringplace/rpm-projects
+Url: https://github.com/boringplace/alt-rpm-projects
 
 BuildArch: noarch
 
